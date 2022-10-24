@@ -1,6 +1,6 @@
 # House Price Prediction with Python
 
-![App Screenshot](https://github.com/aycetiner/house-price-prediction/tree/main/images/image_3.jpg?raw=true)
+![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_3.jpeg)
 
 ## Summary
 
@@ -47,12 +47,12 @@ Built with [![Python][python.org]][python-url]
 
 ## Project Presentation
 
-[![Presentation](https://github.com/aycetiner/house-price-prediction/tree/main/images/presentation.png?raw=true)](https://docs.google.com/presentation/d/1oqCJ0UKpiVH_sxQl296oMAVfwAT9-Y6vwqHC7CPUJyg/edit#slide=id.gc6f80d1ff_0_27)
+[![Presentation](https://github.com/aycetiner/house-price-prediction/blob/main/images/presentation.png)](https://docs.google.com/presentation/d/1oqCJ0UKpiVH_sxQl296oMAVfwAT9-Y6vwqHC7CPUJyg/edit#slide=id.gc6f80d1ff_0_27)
 
 ## Screenshots
 
-![App Screenshot](https://github.com/aycetiner/house-price-prediction/tree/main/images/image_1.png?raw=true)
-![App Screenshot](https://github.com/aycetiner/house-price-prediction/tree/main/images/image_2.png?raw=true)
+![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_1.png)
+![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_2.png)
 
 ## Feedback
 
