@@ -47,6 +47,8 @@ Built with [![Python][python.org]][python-url]
 
 ## Project Presentation
 
+[Presentation Link](https://docs.google.com/presentation/d/1oqCJ0UKpiVH_sxQl296oMAVfwAT9-Y6vwqHC7CPUJyg/edit#slide=id.gc6f80d1ff_0_27)
+
 [![Presentation](https://github.com/aycetiner/house-price-prediction/blob/main/images/presentation.png)](https://docs.google.com/presentation/d/1oqCJ0UKpiVH_sxQl296oMAVfwAT9-Y6vwqHC7CPUJyg/edit#slide=id.gc6f80d1ff_0_27)
 
 ## Screenshots
