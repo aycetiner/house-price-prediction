@@ -56,9 +56,14 @@ Built with [![Python][python.org]][python-url]
 ![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_1.png)
 ![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_2.png)
 
+## License
+
+[![MIT License][License-img]](https://github.com/aycetiner/house-price-prediction/blob/main/LICENSE)
+
 ## Feedback
 
 If you have any feedback, please reach out to me at aycetiner@gmail.com
 
 [python.org]: https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFF2E
 [python-url]: https://www.python.org/
+[License-img]:https://img.shields.io/badge/license-MIT-blue
