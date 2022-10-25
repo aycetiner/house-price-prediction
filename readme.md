@@ -4,7 +4,7 @@
 
 ## Summary
 
-The house price prediction is a machine learning project that aims providing fast and accurate house price estimation. I used a data set consisting of 81 variables and 1460 observation unit from Iowa State to predict the price of a house based on its features.
+The house price prediction is a machine learning project that aims to provide fast and accurate house price estimation. I used a data set consisting of 81 variables and 1460 observation units from Iowa State to predict the price of a house based on its features.
 
 ## Project Content
 
